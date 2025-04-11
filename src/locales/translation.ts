@@ -2,7 +2,7 @@ import YukinaConfig from "../../yukina.config";
 import type I18nKeys from "./keys";
 import { en } from "./languages/en";
 import { zh_CN } from "./languages/zh_cn";
-import { ID } from "./languages/id";
+import { id } from "./languages/id";
 
 export type Translation = {
   [K in I18nKeys]: string;
