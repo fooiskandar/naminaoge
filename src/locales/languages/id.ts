@@ -1,7 +1,7 @@
 import type { Translation } from "../translation";
 import key from "../keys";
 
-export const en: Translation = {
+export const id: Translation = {
   [key.copy_right_author]: "Penulis",
   [key.copy_right_publish_date]: "Tanggal terbit",
   [key.copy_right_license]: "Lisensi",
